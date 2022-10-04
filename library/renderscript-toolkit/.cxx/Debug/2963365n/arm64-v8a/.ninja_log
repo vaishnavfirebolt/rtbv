@@ -1,0 +1,25 @@
+# ninja log v5
+0	469	1664708668	CMakeFiles/cpufeatures.dir/Users/vaishnavatulkumar/Library/Android/sdk/ndk/21.4.7075529/sources/android/cpufeatures/cpu-features.c.o	7cfcfe411a19c589
+8	702	1664708668	CMakeFiles/renderscript-toolkit.dir/JniEntryPoints.cpp.o	2c165dfb18c4fcf6
+10	845	1664708668	CMakeFiles/renderscript-toolkit.dir/RenderScriptToolkit.cpp.o	cd41c839166cf0e0
+4	872	1664708668	CMakeFiles/renderscript-toolkit.dir/Lut.cpp.o	3e749a480f19fa4b
+2	884	1664708668	CMakeFiles/renderscript-toolkit.dir/Convolve3x3.cpp.o	b43646a0ce797f01
+10	896	1664708668	CMakeFiles/renderscript-toolkit.dir/Lut3d.cpp.o	15e6054457901d16
+1	909	1664708668	CMakeFiles/renderscript-toolkit.dir/Blend.cpp.o	3f5eb0d8f9ce2a63
+1	948	1664708668	CMakeFiles/renderscript-toolkit.dir/ColorMatrix.cpp.o	af80df11a40868b2
+2	980	1664708668	CMakeFiles/renderscript-toolkit.dir/Histogram.cpp.o	5ce3d61fef81693
+2	1040	1664708668	CMakeFiles/renderscript-toolkit.dir/Convolve5x5.cpp.o	ada1e10ccd75f0a6
+909	1050	1664708668	CMakeFiles/renderscript-toolkit.dir/Lut3d_advsimd.S.o	77879e4f191988dd
+884	1052	1664708668	CMakeFiles/renderscript-toolkit.dir/Blend_advsimd.S.o	8dcaefb566f9e0e2
+14	1056	1664708668	CMakeFiles/renderscript-toolkit.dir/Resize.cpp.o	3efa47b559585ed7
+896	1090	1664708668	CMakeFiles/renderscript-toolkit.dir/Blur_advsimd.S.o	e4a4b9be94f6000d
+1	1104	1664708668	CMakeFiles/renderscript-toolkit.dir/Blur.cpp.o	ad43866a86276ff
+845	1110	1664708668	CMakeFiles/renderscript-toolkit.dir/Utils.cpp.o	102c0946ec7dff68
+980	1112	1664708668	CMakeFiles/renderscript-toolkit.dir/Convolve_advsimd.S.o	1cf52be9638f469e
+948	1120	1664708668	CMakeFiles/renderscript-toolkit.dir/ColorMatrix_advsimd.S.o	bf981a73bc2d49dc
+1040	1144	1664708668	CMakeFiles/renderscript-toolkit.dir/Resize_advsimd.S.o	ce256b8f4160e8f6
+1050	1148	1664708668	CMakeFiles/renderscript-toolkit.dir/YuvToRgb_advsimd.S.o	e70772818019e924
+872	1298	1664708668	CMakeFiles/renderscript-toolkit.dir/YuvToRgb.cpp.o	76b359115dd35a0
+702	1305	1664708668	CMakeFiles/renderscript-toolkit.dir/TaskProcessor.cpp.o	1c12e3e931f194a2
+469	3964	1664708671	libcpufeatures.a	b23c71e7b90eb216
+3964	4092	1664708671	/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/build/intermediates/cxx/Debug/2963365n/obj/arm64-v8a/librenderscript-toolkit.so	3b2ea838770ecd45

@@ -1,0 +1,4 @@
+/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/.cxx/Debug/2963365n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/.cxx/Debug/2963365n/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/.cxx/Debug/2963365n/armeabi-v7a/CMakeFiles/cpufeatures.dir
+/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/.cxx/Debug/2963365n/armeabi-v7a/CMakeFiles/renderscript-toolkit.dir

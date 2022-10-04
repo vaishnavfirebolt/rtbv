@@ -1,0 +1,54 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/vaishnavatulkumar/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/.cxx/Debug/2963365n/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/vaishnavatulkumar/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/.cxx/Debug/2963365n/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "renderscript-toolkit-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/vaishnavatulkumar/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/.cxx/Debug/2963365n/x86",
+        "renderscript-toolkit"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "renderscript-toolkit",
+      "output": "/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/build/intermediates/cxx/Debug/2963365n/obj/x86/librenderscript-toolkit.so",
+      "runtimeFiles": []
+    },
+    "cpufeatures-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/vaishnavatulkumar/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/.cxx/Debug/2963365n/x86",
+        "cpufeatures"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "cpufeatures",
+      "output": "/Users/vaishnavatulkumar/StudioProjects/renderscript-intrinsics-replacement-toolkit/renderscript-toolkit/.cxx/Debug/2963365n/x86/libcpufeatures.a"
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
